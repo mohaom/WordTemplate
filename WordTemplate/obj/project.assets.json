@@ -9131,11 +9131,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Momar\\Documents\\Visual Studio 2017\\Projects\\WordTemplate\\WordTemplate\\WordTemplate.csproj",
+      "projectUniqueName": "C:\\Users\\Momar\\Source\\Repos\\WordTemplate\\WordTemplate\\WordTemplate.csproj",
       "projectName": "WordTemplate",
-      "projectPath": "C:\\Users\\Momar\\Documents\\Visual Studio 2017\\Projects\\WordTemplate\\WordTemplate\\WordTemplate.csproj",
+      "projectPath": "C:\\Users\\Momar\\Source\\Repos\\WordTemplate\\WordTemplate\\WordTemplate.csproj",
       "packagesPath": "C:\\Users\\Momar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Momar\\Documents\\Visual Studio 2017\\Projects\\WordTemplate\\WordTemplate\\obj\\",
+      "outputPath": "C:\\Users\\Momar\\Source\\Repos\\WordTemplate\\WordTemplate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
